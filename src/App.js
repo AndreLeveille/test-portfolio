@@ -11,6 +11,7 @@ function App() {
       <p>this is the change that i want to keep made by dre dizzle  </p>
       <p>this is the change that i dont want to keep made by foo</p>
 
+     <p>this is the change blah blah </p>
     </div>
   );
 }
