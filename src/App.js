@@ -8,6 +8,7 @@ function App() {
       <Navbar/>
       <h1>Change Made</h1>
       <p>this is the change i want to keep </p>
+     <p>this is the change blah blah </p>
     </div>
   );
 }
